@@ -466,10 +466,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Users/bkang/epicmacropad/PCB/gerber/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../../../../Downloads/keyboard.step",
+      "step": "../../Downloads/keyboard.step",
       "svg": "",
       "vrml": ""
     },
